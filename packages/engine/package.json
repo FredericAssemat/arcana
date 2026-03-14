@@ -1,0 +1,12 @@
+{
+  "name": "@arcana/engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/validation.js"
+  },
+  "dependencies": {
+    "astronomia": "^4.2.0",
+    "luxon": "^3.7.2"
+  }
+}
